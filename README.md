@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Ümid
 
-<!--
-**UMIDRR/UMIDRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Computer Science Graduate  
+🎓 Baku State University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a **Full-Stack Developer** with a strong foundation in **Computer Science**, graduated from **Baku State University**.  
+I enjoy building modern, scalable, and user-friendly web applications from scratch.
+
+- 🔭 Currently working as a **Full-Stack Developer**
+- 🌱 Continuously improving my skills in web technologies
+- 🎯 Focused on clean code, performance, and UX
+- 💡 Interested in modern JavaScript ecosystems and backend architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React  
+- React Router  
+- Axios  
+- Vite  
+
+### 🎨 UI / UX
+- Figma  
+- UI/UX Principles  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- JWT Authentication  
+
+### 🗄️ Databases
+- MongoDB  
+- MySQL  
+
+### 🧰 Tools & Others
+- Git & GitHub  
+- Postman  
+- VS Code  
+- NPM  
+- Docker (Basic)
+
+---
+
+## 📂 Projects
+Some of my projects include:
+
+[portfolio](https://umid-portfolio.vercel.app/)
+
+> You can check my repositories to see more projects and code samples.
+
+---
+
+## 📫 Contact Me
+
+- 💼 GitHub:[Github](https://github.com/UMIDRR)
+- 📧 Email:[E-mail](umidrzayev52@gmail.com)
+- 💬 LinkedIn:[LinkedLn](linkedin.com/in/umid-rzazada-4a9563357)
+
+---
+
+⭐️ *Feel free to explore my repositories and give a star if you like my work!*
