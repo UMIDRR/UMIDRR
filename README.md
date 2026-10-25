@@ -56,7 +56,7 @@ I enjoy building modern, scalable, and user-friendly web applications from scrat
 ## 📂 Projects
 Some of my projects include:
 
-[portfolio](x)
+(https://rzazadaumid.netlify.app)
 
 > You can check my repositories to see more projects and code samples.
 
