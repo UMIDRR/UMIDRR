@@ -27,7 +27,8 @@ I enjoy building modern, scalable, and user-friendly web applications from scrat
 - React  
 - React Router  
 - Axios  
-- Vite  
+- Vite
+- Next.js
 
 ### 🎨 UI / UX
 - Figma  
@@ -55,7 +56,7 @@ I enjoy building modern, scalable, and user-friendly web applications from scrat
 ## 📂 Projects
 Some of my projects include:
 
-[portfolio](https://umid-portfolio.vercel.app/)
+[portfolio](x)
 
 > You can check my repositories to see more projects and code samples.
 
@@ -66,6 +67,7 @@ Some of my projects include:
 - 💼 GitHub:[Github](https://github.com/UMIDRR)
 - 📧 Email:[E-mail](umidrzayev52@gmail.com)
 - 💬 LinkedIn:[LinkedLn](linkedin.com/in/umid-rzazada-4a9563357)
+- 💼 Portfolio:[Portfolio](https://rzazadaumid.netlify.app/)
 
 ---
 
